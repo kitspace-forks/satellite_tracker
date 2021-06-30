@@ -1,0 +1,9 @@
+multi:
+  satellite_tracker_LED:
+    summary: Satellite Tracker LED Board
+    gerbers: PCBs/LED/gerbers
+    bom: PCBs/LED/BOM.csv
+  satellite_tracker_auxiliary:
+    summary: Satellite Tracker Auxiliary Board
+    gerbers: PCBs/auxiliary/gerbers
+    bom: PCBs/auxiliary/BOM.csv
